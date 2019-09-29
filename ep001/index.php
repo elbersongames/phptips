@@ -1,4 +1,4 @@
 <?php
 
 require __DIR__ . "/vendor/autoload.php";
-echo "<h1>Olá Mundo! Bem-vindo(a) ao PHP Tips.</h1>";
+echo "<h1>Olá Mundo! Bem-vindo(a) ao PHP Tips. 100</h1>";
