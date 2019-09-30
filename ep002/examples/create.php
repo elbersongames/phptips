@@ -11,7 +11,7 @@ $user->last_name = "Mariano";
 $user->genre = "M";
 $user->save();
 
-//$addr = new Address();
+////$addr = new Address();
 //$addr->add($user, "Nome da rua", "1230");
 //$addr->save();
 
