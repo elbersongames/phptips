@@ -11,7 +11,7 @@ $email = new Email();
 //    "title",
 //    "email"
 ////)->send();
-//)->attach("files/w.png", "Luiza Meu BB")->send();
+//)->attach("files/w.png", "name")->send();
 
 if (!$email->error()) {
     var_dump(true);
