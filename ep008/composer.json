@@ -1,0 +1,18 @@
+{
+  "name": "elbersongames/phptips008",
+  "description": "GERANDO MINIATURAS DE IMAGENS COM CROPPER | PHP TIPS #008",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Elberson Games",
+      "email": "elbersongames@gmail.com",
+      "role": "Developer",
+      "homepage": "https://www.elbersondev.com.br"
+    }
+  ],
+  "require": {
+    "fzaninotto/faker": "1.8.*",
+    "coffeecode/cropper": "1.2.*"
+  }
+}
